@@ -2,7 +2,7 @@
 - 👀 I’m interested in Grow, share, and learn in the world of Technology as a Front End Developer.
 - 🌱 I’m currently learning IA-900 at DIO with the Microsoft partnership
 - 💞️ I’m looking to collaborate on with several projects and repositories
-- 📫 How to reach me Email: domingosjoao510@gmail.com/ Celular: +5511999787394
+- 📫 How to reach me Email: domingosjoao510@gmail.com/ Celular: +5511999787394 
 - 😄 Pronouns: His/Him
 - ⚡ Fun fact:On learning new programming tools
 
